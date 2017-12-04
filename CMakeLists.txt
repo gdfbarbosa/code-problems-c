@@ -1,0 +1,3 @@
+cmake_minimum_required (VERSION 2.6)
+project (learning-c)
+add_executable(learning-c factorial.c)
